@@ -1,9 +1,6 @@
 {
-  "semver": false,
   "parser_version": "fb028c8f14f4188286c2eef143f105def6fbf24f",
-  "location": null,
+  "url": "https://github.com/gdamore/tree-sitter-d",
   "lang": "d",
-  "generate": null,
-  "generate_from_json": null,
-  "url": "https://github.com/gdamore/tree-sitter-d"
+  "semver": false
 }
