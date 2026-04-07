@@ -1,8 +1,9 @@
 {
-  "max_version": null,
   "lang": "d",
-  "location": null,
+  "generate": null,
+  "generate_from_json": null,
   "url": "https://github.com/gdamore/tree-sitter-d",
   "semver": false,
-  "min_version": null
+  "parser_version": "fb028c8f14f4188286c2eef143f105def6fbf24f",
+  "location": null
 }
